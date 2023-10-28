@@ -14,12 +14,12 @@ const inter = Inter({
 });
 
 const options = {
-  title: "Victor Eke | Software Developer",
+  title: "Anudeep Adiraju - Software Developer",
   description:
-    "Victor Eke is a Software Developer and Technical Writer who is passionate about building solutions and contributing to open source communities",
-  url: "https://victoreke.com",
+    "Anudeep Adiraju is a Software Developer and Technical Writer who is passionate about building solutions and contributing to open source communities",
+  url: "https://anudeepadi.vercel.app/",
   ogImage:
-    "https://res.cloudinary.com/victoreke/image/upload/v1692635746/victoreke/og.png",
+    "https://res.cloudinary.com/dltqi2xt8/image/upload/v1698493723/rjkqydvhlky7dk4uaxwj.png",
 };
 
 export const metadata: Metadata = {
