@@ -18,27 +18,6 @@
 - [Next Themes][nexttheme]: Color Theme
 - [React Refractor][reactrefractor]: Syntax Highlighting
 
-## Project Overview
-
-| [Site][site]          | [Studio][studio]                 |
-| --------------------- | -------------------------------- |
-| ![Site][site-preview] | ![Sanity Studio][studio-preview] |
-
-## Run Project Locally
-
-Follow this guide to get this site runnning locally:
-
-### Clone Repository
-
-```js
-git clone https://github.com/Evavic44/victoreke.com.git
-
-cd victoreke.com
-
-npm install
-```
-
-- Rename [`.env.example`][env-example] to `.env`
 
 ### Get Env variables
 
