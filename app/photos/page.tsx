@@ -9,7 +9,7 @@ const images = [
   },
   {
     id: "2",
-    src: "https://images.unsplash.com/photo-1698925489972-8a7a52878546?auto=format&fit=crop&q=80&w=2568&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    src: "https://images.unsplash.com/photo-1698931698106-a4ea87ff9420?auto=format&fit=crop&q=80&w=2535&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: "3",

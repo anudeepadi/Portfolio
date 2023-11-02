@@ -23,6 +23,18 @@ export default function Navbar() {
       title: "Photos",
       href: "/photos",
     },
+    {
+      title: "Music",
+      href: "/music",
+    },
+    {
+      title: "Adventures",
+      href: "/adventures",
+    },
+    {
+      title: "Contact",
+      href: "/contact",
+    },
   ];
 
   return (
