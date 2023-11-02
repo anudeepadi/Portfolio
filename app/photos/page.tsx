@@ -5,7 +5,7 @@ import { Metadata } from "next";
 const images = [
   {
     id: "1",
-    src: "https://images.unsplash.com/photo-1585618256754-241cfe4e8113?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=100",
+    src: "https://drive.google.com/file/d/1r4f2VHwtsxgpNkQx1nnpedvKzDVDaH73/view?usp=sharing",
   },
   {
     id: "2",
