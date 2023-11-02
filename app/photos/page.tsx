@@ -5,20 +5,20 @@ import { Metadata } from "next";
 const images = [
   {
     id: "1",
-    src: "https://drive.google.com/file/d/1r4f2VHwtsxgpNkQx1nnpedvKzDVDaH73/view?usp=sharing",
+    src: "https://images.unsplash.com/photo-1698925376808-2b3806e6244c?auto=format&fit=crop&q=80&w=2535&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: "2",
-    src: "https://images.unsplash.com/photo-1585619203238-70e7631cc672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    src: "https://images.unsplash.com/photo-1698925489972-8a7a52878546?auto=format&fit=crop&q=80&w=2568&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: "3",
-    src: "https://images.unsplash.com/photo-1585619443911-c2bb23fb2a49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    src: "https://images.unsplash.com/photo-1698925489947-690b512993c7?auto=format&fit=crop&q=80&w=2535&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
 export const metadata: Metadata = {
-  title: "Photos | Victor Eke",
+  title: "Photos | Anudeep Adiraju",
   metadataBase: new URL("https://anudeepadi.vercel.app/photos"),
   description: "Explore photos taken by Anudeep Adiraju",
   openGraph: {

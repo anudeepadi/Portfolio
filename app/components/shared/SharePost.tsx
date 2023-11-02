@@ -34,7 +34,7 @@ export default function SharePost({ title, slug, description }: props) {
     {
       icon: BiLogoWhatsapp,
       name: 'WhatsApp',
-      shareUrl: `https://api.whatsapp.com/send?text=${encodeURIComponent('Read this amazing article by Victor Eke')}.%0A%0A${title}%0A%0A${blog}${slug}`
+      shareUrl: `https://api.whatsapp.com/send?text=${encodeURIComponent('Read this amazing article by Anudeep Adiraju')}.%0A%0A${title}%0A%0A${blog}${slug}`
     },
   ];
 
