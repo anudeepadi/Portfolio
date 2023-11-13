@@ -27,14 +27,6 @@ export default function Navbar() {
       title: "Music",
       href: "/music",
     },
-    {
-      title: "Adventures",
-      href: "/adventures",
-    },
-    {
-      title: "Contact",
-      href: "/contact",
-    },
   ];
 
   return (
