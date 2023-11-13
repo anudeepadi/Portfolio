@@ -23,10 +23,6 @@ export default function Navbar() {
       title: "Photos",
       href: "/photos",
     },
-    {
-      title: "Music",
-      href: "/music",
-    },
   ];
 
   return (
